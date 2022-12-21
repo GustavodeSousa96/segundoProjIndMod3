@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fundo{
+    background-color: #d2F7EC;
+    width: 100%;
+    height: 130px auto; /* O auto serve p/ a div acompanhar o texto */
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.icone {
+    font-size: 5em;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.banner {
+    
+   
+}
